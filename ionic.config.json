@@ -1,0 +1,7 @@
+{
+  "name": "Clone_Wsaap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
